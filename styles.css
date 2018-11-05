@@ -1,0 +1,47 @@
+body {
+    background-image: url(https://cdn.anadventurousworld.com/wp-content/uploads/2017/07/17.07.23-mjs-paris-16.jpg);
+    background-size: cover; 
+}
+h1 {  
+    color:red;
+    font-family: 'Spicy Rice', cursive;
+     text-align: center;
+    }
+
+
+marquee {
+    font-size:70px;
+    color:red;
+    font-family: 'Spicy Rice', cursive;
+     text-align: center;
+    }
+
+h2{
+    color:yellow;
+       background-color:blue;
+     border: 10px solid pink;
+     text-align: center;
+    }
+
+h3{
+    color:black;
+    font-family: 'Kaushan Script', cursive;
+     text-align: left;
+    }
+    
+li {
+    color:black; 
+    font-family: 'Spicy Rice', cursive;
+    text-align: left;
+    }
+    
+p {
+    color:black;
+    font-family: 'Spicy Rice', cursive;
+     text-align: left;
+    }
+    
+img {
+    height: 500px;
+    width:800px;
+    }
